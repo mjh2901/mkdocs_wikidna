@@ -1,0 +1,18 @@
+site_name: "Network DNA"
+docs_dir: docs
+# Remove explicit nav so MkDocs auto-generates navigation from the docs/ structure and page H1s
+
+theme:
+  name: material
+  logo: networkdna_logo.jpg
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences

@@ -1,0 +1,28 @@
+# 302: Model 100
+
+Workstation Model Identification (ex: INFMOD01): WORMOD01
+
+Purpose:
+
+Manufacturer: Product:
+
+Model Number: Part Number:
+
+Warranty Duration:
+
+Processor: Speed: Number of processors:
+
+Memory:
+
+HD capacity: Speed:
+
+Partitions (name/size):
+
+OS: Patch Level:
+
+Local Support Phone Number:\\
+Contact Name:\\
+Manufacturer:\\
+Support Phone Number:\\
+Contract #:\\
+Contact Name:

@@ -1,0 +1,16 @@
+# Ignore generated MkDocs site
+site/
+
+# Ignore local python venvs under scripts
+scripts/.venv/
+
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+
+# Editor
+*.swp
+.vscode/
