@@ -6,6 +6,9 @@ theme:
   name: material
   logo: networkdna_logo.jpg
 
+repo_url: https://github.com/mjh2901/mkdocs_wikidna
+edit_uri: edit/main/docs/
+
 markdown_extensions:
   - abbr
   - admonition
