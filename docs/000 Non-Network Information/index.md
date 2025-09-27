@@ -2,6 +2,8 @@
 
 Sample Company Inc.
 
-Binder Home: Internal Wiki\\
-Paper Binder Location:\\
+Binder Home: Internal Wiki
+
+Paper Binder Location:
+
 Paper Binder Last Print Date:

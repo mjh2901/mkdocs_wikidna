@@ -6,8 +6,10 @@ Note: WORDEVxxyy: xx=model document this deviation is bound to. yy=the number of
 
 Hardware Deviations:
 
-Additional memory:\\
-Additional HD:\\
+Additional memory:
+
+Additional HD:
+
 Additional Cards:
 
 Software Deviations:

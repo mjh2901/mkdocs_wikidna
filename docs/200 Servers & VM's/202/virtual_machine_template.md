@@ -2,15 +2,20 @@
 
 Host:
 
-Servername:\\
-DNS:\\
+Servername:
+
+DNS:
+
 IP Address:
 
-OS:\\
-Ram:\\
+OS:
+
+Ram:
+
 Hard DIsks:
 
-Root Login:\\
+Root Login:
+
 Password:
 
 Services:

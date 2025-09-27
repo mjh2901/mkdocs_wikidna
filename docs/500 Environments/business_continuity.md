@@ -2,11 +2,16 @@
 
 The generic purpose of business continuity is to keep end users productive in the event of failure or disaster.
 
-Specific Purpose:\\
-Technology Used:\\
-Software – Manufacturer:\\
-Product:\\
-Version:\\
+Specific Purpose:
+
+Technology Used:
+
+Software – Manufacturer:
+
+Product:
+
+Version:
+
 Patch:
 
 IF Location loses connection to the main office:

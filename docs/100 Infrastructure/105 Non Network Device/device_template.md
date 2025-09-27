@@ -8,25 +8,32 @@ Infrastructure Model Identification (ex: INFMOD01):
 
 Device Type (Router, Firewall, Switch, Gateway, Other):
 
-Manufacturer:\\
-Model Number:\\
+Manufacturer:
+
+Model Number:
+
 Part Number:
 
-OS:\\
+OS:
+
 License'(s):
 
 Warranty Duration:
 
-Local Support Phone Number:\\
+Local Support Phone Number:
+
 Contact Name:
 
-Manufacturer Support Phone Number:\\
-Contract #\\
+Manufacturer Support Phone Number:
+
+Contract #
+
 Contact Name:
 
 Global defaults:
 
-Local Username:\\
+Local Username:
+
 Local Password:
 
 Configuration password:

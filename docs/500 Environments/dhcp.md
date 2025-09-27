@@ -1,8 +1,8 @@
 # DHCP
 
-DHCP Server Name:\\
+DHCP Server Name:
 
-Lease Time = 24 hours\\
+Lease Time = 24 hours
 
 DHCP Options
 
@@ -21,7 +21,6 @@ DHCP Exclusions (Static Address Ranges):
 | Servers |  |  |
 | Printers |  |  |
 
-\\
 DHCP Scopes
 
 | Use | Start IP Address | End IP Address | Network Segment |

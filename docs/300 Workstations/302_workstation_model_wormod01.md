@@ -20,9 +20,14 @@ Partitions (name/size):
 
 OS: Patch Level:
 
-Local Support Phone Number:\\
-Contact Name:\\
-Manufacturer:\\
-Support Phone Number:\\
-Contract #:\\
+Local Support Phone Number:
+
+Contact Name:
+
+Manufacturer:
+
+Support Phone Number:
+
+Contract #:
+
 Contact Name:

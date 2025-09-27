@@ -1,10 +1,15 @@
 # 104: MDF
 
-Facility Name: (MDF, IDF1, IDF2):\\
-Location in building:\\
-Connection Type:\\
-Speed:\\
-Person / Organization responsible for connections:\\
+Facility Name: (MDF, IDF1, IDF2):
+
+Location in building:
+
+Connection Type:
+
+Speed:
+
+Person / Organization responsible for connections:
+
 Phone:
 
 Floor Plan – Rack locations, desks, D-marks,

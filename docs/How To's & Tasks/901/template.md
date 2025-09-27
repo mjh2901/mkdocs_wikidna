@@ -1,7 +1,9 @@
 # How To's: Template
 
-Title:\\
-Category: Template, DesktopOS, ServerOS, Application, Anti-Virus, Spyware, Backup\\
+Title:
+
+Category: Template, DesktopOS, ServerOS, Application, Anti-Virus, Spyware, Backup
+
 Overview:
 
 Synopsis:

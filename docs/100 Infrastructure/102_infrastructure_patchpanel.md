@@ -1,9 +1,10 @@
 # 102: Patch Panels
 
-Room #:\\
-Rack #:\\
-Patch Panel #:
+Room #:
 
+Rack #:
+
+Patch Panel #:
 
 | Port # | Cable Length | Cable Color | Cable Label | To Switch Port | To Jack |
 | --- | --- | --- | --- | --- | --- |

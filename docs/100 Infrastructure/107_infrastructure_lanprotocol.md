@@ -1,13 +1,16 @@
 # 106: Lan Protocol
 
-Protocols running on the wire (TCP / IP, IPX / SPX, Netbui):\\
+Protocols running on the wire (TCP / IP, IPX / SPX, Netbui):
+
 TCP/IP Information Version (4, 6):
 
-Location IP Scheme\\
-Net: 172.0.0.0\\
-Subnet Mask: 255.0.0.0\\
-Gateway: 172.0.0.1
+Location IP Scheme
 
+Net: 172.0.0.0
+
+Subnet Mask: 255.0.0.0
+
+Gateway: 172.0.0.1
 
 **3rd Octet Assignment:**
 
