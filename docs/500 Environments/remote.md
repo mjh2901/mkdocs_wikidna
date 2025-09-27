@@ -2,7 +2,7 @@
 
 Public Access (controlling a server or workstation from outside your network)
 
-**High Speed Internet connection:** 
+**High Speed Internet connection:**
 
 To Server:
 
@@ -10,9 +10,9 @@ Server Name:
 
 Technology: (RDS, Terminal Services, SSL, Web Interface)
 
-Domain Name or IP: server1support.domianname.com
+Domain Name or IP: server1support, domain name.com
 
-**Dial Up:** 
+**Dial Up:**
 
 Phone number:
 

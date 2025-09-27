@@ -40,7 +40,7 @@ S/N (install code):
 
 Vendor ID / Code:
 
-**Backup Job information** 
+## Backup Job information
 
 Number of backup jobs: (1 / 5):
 
@@ -60,11 +60,11 @@ recipients:
 
 notification types:
 
-**Tape Rotation** 
+## Tape Rotation
 
 Number of Tapes in rotation:(1 / 5 / 10 / 20 ):
 
-Tape nameing convention: (Days of Week, Numbers)
+Tape naming convention: (Days of Week, Numbers)
 
 Tape taken offsite: (yes / no) Weekly tape used: (yes / no)
 

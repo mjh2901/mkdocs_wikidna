@@ -2,18 +2,15 @@
 
 The structure to be followed at this location
 
-**SERVER:** 
+**SERVER:**
 
 Applications - `\volume\apps\\`
 Users Home folders - `\volume\users\\\`
 Group / Shared folders
 
-[
-volume
-shared
-](file://servername/volume/shared/)
+[volume_shared](file://servername/volume/shared/)
 
-**IT files:** 
+**IT files:**
 
 - `\volume\\`
 - `\archive\\`
@@ -22,7 +19,7 @@ shared
 - `\download,\\`
 - `\install`
 
-**Mappings:** 
+**Mappings:**
 
 - `Apps HYPERLINK "../../../H:/" H:\ =\\`
 - `Home HYPERLINK "../../../S:/" S:\ =\\`
