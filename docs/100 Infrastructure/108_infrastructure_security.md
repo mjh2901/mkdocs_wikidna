@@ -20,10 +20,10 @@ Each Infrastructure device has a unique password: (n/a / yes / no)
 
 **Intrusion**
 
-Prevention / Detection Firewall exists on persistant internet connection: (n/a / yes / no)
+Prevention / Detection Firewall exists on persistent internet connection: (n/a / yes / no)
 
 Firewall configurable from public site: (n/a / yes / no)
 
 Firewall contains different config password: (n/a / yes / no)
 
-Only needed data jacks activiated: (n/a / yes / no)
+Only needed data jacks activated: (n/a / yes / no)
