@@ -66,7 +66,7 @@ def resolve_target(source_rel, href):
         return source_rel, href[1:]
     # skip absolute urls
     parsed = urlparse(href)
-    if parsed.scheme in ('http','https','mailto','tel','javascript') or href.startswith('//'):
+    if parsed.scheme in ('http','https','mailto','tel','javascript','file') or href.startswith('//'):
         return None, None
     # make path relative to source; handle root-relative paths starting with '/'
     src_dir = os.path.dirname(source_rel)
