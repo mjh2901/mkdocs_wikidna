@@ -7,10 +7,11 @@
 url: "https://mjh2901.github.io"
 baseurl: "/mkdocs_wikidna"
 
-theme:
-  name: hacker
-  logo: networkdna_logo.jpg
-  
+remote_theme: pages-themes/hacker
+plugins:
+- jekyll-remote-theme
+logo: networkdna_logo.jpg
+
 title: "mkdocs_wikidna"
 description: "MkDocs site for the migrated WikiDNA documentation"
 repository_url: "https://github.com/mjh2901/mkdocs_wikidna"
