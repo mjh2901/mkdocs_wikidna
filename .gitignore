@@ -1,5 +1,7 @@
 # Ignore generated MkDocs site
 site/
+# Ignore generated MkDocs site
+site/
 
 # Ignore local python venvs under scripts
 scripts/.venv/
