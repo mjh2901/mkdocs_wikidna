@@ -1,4 +1,5 @@
-# mkdocs_wikidna — MkDocs port of WikiDNA
+# MKDocs WikiDNA
+MkDocs port of the WikiDNA network documentation templates.
 
 This repository is a MkDocs-formatted port of the original WikiDNA content. The docs have been converted and reorganized to work with MkDocs + the Material theme.
 
