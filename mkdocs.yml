@@ -3,7 +3,7 @@ docs_dir: docs
 # Remove explicit nav so MkDocs auto-generates navigation from the docs/ structure and page H1s
 
 theme:
-  name: hacker
+  name: material
   logo: networkdna_logo.jpg
 
 repo_url: https://github.com/mjh2901/mkdocs_wikidna
@@ -15,6 +15,8 @@ markdown_extensions:
   - attr_list
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.emoji
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
 
