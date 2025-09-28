@@ -1,0 +1,19 @@
+# GitHub Pages configuration
+# This file provides the basic settings GitHub Pages (Jekyll) looks for.
+# For an MkDocs site deployed to GitHub Pages, set the site URL and base
+# path so links are generated correctly when served at
+# https://<github-user>.github.io/<repo-name>
+
+url: "https://mjh2901.github.io"
+baseurl: "/mkdocs_wikidna"
+
+title: "mkdocs_wikidna"
+description: "MkDocs site for the migrated WikiDNA documentation"
+repository_url: "https://github.com/mjh2901/mkdocs_wikidna"
+
+# Notes:
+# - If you deploy the MkDocs site to the repository's github.io/<repo> path
+#   (for example using the gh-pages branch), these values ensure generated
+#   absolute links point to the correct location.
+# - If you instead deploy to a custom domain, set `url` to the custom domain
+#   and set `baseurl` to '/' (or remove it).
