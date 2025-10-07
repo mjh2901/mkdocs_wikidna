@@ -1,7 +1,7 @@
-# MKDocs WikiDNA
-MkDocs port of the WikiDNA network documentation templates.
+# MKDocs  Network DNA MKDocs
+MkDocs port of the  Network DNA MKDocs network documentation templates.
 
-This repository is a MkDocs-formatted port of the original WikiDNA content. The docs have been converted and reorganized to work with MkDocs + the Material theme.
+This repository is a MkDocs-formatted port of the original  Network DNA MKDocs content. The docs have been converted and reorganized to work with MkDocs + the Material theme.
 
 This README is a lightweight entry point — the full content lives under `docs/` and the site is generated with MkDocs.
 
@@ -33,4 +33,4 @@ Repository notes
 - MkDocs config: `mkdocs.yml`
 - Scripts for conversion and checks: `scripts/` (link checker, markdown fixers, rename helpers)
 
-This repo was created by converting legacy WikiDNA content to Markdown and fixing formatting for MkDocs compatibility. For details, see `report.md`.
+This repo was created by converting legacy  Network DNA MKDocs content to Markdown and fixing formatting for MkDocs compatibility. For details, see `report.md`.

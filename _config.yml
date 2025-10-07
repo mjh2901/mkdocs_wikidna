@@ -5,16 +5,16 @@
 # https://<github-user>.github.io/<repo-name>
 
 #url: "https://mjh2901.github.io"
-#baseurl: "/mkdocs_wikidna"
+#baseurl: "/mkdocs_ Network DNA MKDocs"
 
 #remote_theme: pages-themes/hacker
 #plugins:
 #- jekyll-remote-theme
 #logo: networkdna_logo.jpg
 
-#title: "mkdocs_wikidna"
-#description: "MkDocs site for the migrated #WikiDNA documentation"
-#repository_url: "https://github.com/mjh2901/#mkdocs_wikidna"
+#title: "mkdocs_ Network DNA MKDocs"
+#description: "MkDocs site for the migrated # Network DNA MKDocs documentation"
+#repository_url: "https://github.com/mjh2901/#mkdocs_ Network DNA MKDocs"
 
 # Notes:
 # - If you deploy the MkDocs site to the repository's github.io/<repo> path

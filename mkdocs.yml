@@ -1,4 +1,4 @@
-site_name: "Network DNA"
+site_name: "Network DNA MKDocs"
 docs_dir: docs
 # Remove explicit nav so MkDocs auto-generates navigation from the docs/ structure and page H1s
 
@@ -6,7 +6,7 @@ theme:
   name: material
   logo: networkdna_logo.jpg
 
-repo_url: https://github.com/mjh2901/mkdocs_wikidna
+repo_url: https://github.com/mjh2901/mkdocs_ Network DNA MKDocs
 edit_uri: edit/main/docs/
 
 markdown_extensions:
