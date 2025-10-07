@@ -17,3 +17,22 @@ jobs:
           python-version: 3.x
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
+
+      - name: Force Pages cache refresh (cache-bust)
+        env:
+          REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          # clone gh-pages branch into a temporary folder
+          git clone --depth 1 --branch gh-pages https://x-access-token:${GH_TOKEN}@github.com/${REPO} gh-pages || git clone https://x-access-token:${GH_TOKEN}@github.com/${REPO} gh-pages
+          cd gh-pages
+          # write timestamp to force a new commit
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .cache_bust
+          git add .cache_bust
+          if ! git diff --staged --quiet; then
+            git commit -m "ci: cache-bust $(cat .cache_bust)"
+            git push https://x-access-token:${GH_TOKEN}@github.com/${REPO} gh-pages
+          else
+            echo "No changes to .cache_bust; skipping push."
+          fi
