@@ -31,6 +31,9 @@ jobs:
           date -u +"%Y-%m-%dT%H:%M:%SZ" > .cache_bust
           git add .cache_bust
           if ! git diff --staged --quiet; then
+            # Configure a commit identity for the Actions runner
+            git config user.email "actions@github.com"
+            git config user.name "GitHub Actions"
             git commit -m "ci: cache-bust $(cat .cache_bust)"
             git push https://x-access-token:${GH_TOKEN}@github.com/${REPO} gh-pages
           else
