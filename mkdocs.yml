@@ -20,3 +20,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.superfences
 
+plugins:
+  - search
+  - macros
+
+
