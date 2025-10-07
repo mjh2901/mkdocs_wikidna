@@ -1,3 +1,5 @@
+#This is the action for deploying MKDocs to GitHub Pages.
+#GitHub pages still need to be set to deploy from branch 'gh-pages'
 name: Deploy MkDocs
 on:
   push:
