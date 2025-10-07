@@ -1,4 +1,4 @@
-# 006: Copyright
+# 004: Copyright
 
 The MIT License (MIT)
 
